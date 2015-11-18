@@ -1,0 +1,9 @@
+alias ls='ls -GF'
+alias ll='ls -GFlt'
+alias less='less -N'
+alias subl='reattach-to-user-namespace subl'
+alias bundle='bundle _1.9.9_'
+alias nbundle='bundle _1.10.3_'
+
+# aliase file also put below place.
+#.oh-my-zsh/custom/zshrc.zsh
