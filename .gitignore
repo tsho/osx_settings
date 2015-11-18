@@ -1,1 +1,4 @@
 .DS_Store
+
+.zshrc.local
+make_link.sh
